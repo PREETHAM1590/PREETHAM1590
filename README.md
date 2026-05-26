@@ -15,7 +15,7 @@
 
 ## About Me
 
-AI/ML undergraduate (graduating Aug 2026) with hands-on experience in Python, Kotlin/Android, and Generative AI development. Built a sentiment analysis model achieving **92% accuracy** and a recommendation engine driving a **15% uplift in user engagement**. Delivered **4 end-to-end projects** spanning computer vision, NLP, LLM workflows, mobile, and full-stack development.
+AI/ML undergraduate  with hands-on experience in Python, Kotlin/Android, and Generative AI development. Built a sentiment analysis model achieving **92% accuracy** and a recommendation engine driving a **15% uplift in user engagement**. Delivered **4 end-to-end projects** spanning computer vision, NLP, LLM workflows, mobile, and full-stack development.
 
 ---
 
