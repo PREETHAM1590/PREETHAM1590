@@ -15,7 +15,7 @@
 
 ## About Me
 
-AI/ML undergraduate  with hands-on experience in Python, Kotlin/Android, and Generative AI development. Built a sentiment analysis model achieving **92% accuracy** and a recommendation engine driving a **15% uplift in user engagement**. Delivered **4 end-to-end projects** spanning computer vision, NLP, LLM workflows, mobile, and full-stack development.
+AI/ML undergraduate (graduating Aug 2026) with hands-on experience in Python, Kotlin/Android, and Generative AI development. Built a sentiment analysis model achieving **92% accuracy** and a recommendation engine driving a **15% uplift in user engagement**. Delivered **4 end-to-end projects** spanning computer vision, NLP, LLM workflows, mobile, and full-stack development.
 
 ---
 
@@ -69,11 +69,12 @@ AI/ML undergraduate  with hands-on experience in Python, Kotlin/Android, and Gen
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PREETHAM1590&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PREETHAM1590&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="48%" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PREETHAM1590&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PREETHAM1590&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" />
 </p>
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PREETHAM1590&theme=tokyonight&hide_border=true" width="60%" />
+  <img src="https://streak-stats.demolab.com?user=PREETHAM1590&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
